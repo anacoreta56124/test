@@ -1,0 +1,22 @@
+body{
+background-color: #62466b
+}
+
+header{
+color: white;
+text-align: center;
+text-transform: uppercase;
+font-size: 4em;
+}
+
+#Proposicion{
+font-style: italic;
+color: cyan;
+text-decoration: inherit;
+}
+
+
+h2{
+color: white;
+}
+
