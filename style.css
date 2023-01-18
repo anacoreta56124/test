@@ -9,10 +9,14 @@ text-transform: uppercase;
 font-size: 4em;
 }
 
-#Proposicion{
+.Proposicion{
 font-style: italic;
 color: cyan;
 text-decoration: inherit;
+}
+
+#instruccion{
+color: yellow;
 }
 
 
