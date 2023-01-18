@@ -1,24 +1,27 @@
 body{
-background-color: #62466b
+background-color: black;
 }
 
 header{
-color: white;
+color: cyan;
 text-align: center;
 text-transform: uppercase;
-font-size: 4em;
+font-size: 2em;
 }
 
-.Proposicion{
+.instruccion{
 font-style: italic;
 color: cyan;
 text-decoration: inherit;
 }
 
-#instruccion{
-color: yellow;
+.comando{
+color: white;
 }
 
+.Nota{
+color: yellow;
+}
 
 h2{
 color: white;
